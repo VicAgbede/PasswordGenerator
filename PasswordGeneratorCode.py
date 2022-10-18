@@ -1,6 +1,6 @@
 """
     Password Generator Project
-    input:  password length
+    input:  Number of Letters
             Number of Digits
             Number of Symbols
     
